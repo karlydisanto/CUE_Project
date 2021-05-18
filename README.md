@@ -14,7 +14,9 @@ This module requires the following:
 ### Execution
 In order to execute automated testing for the Fit4U application use the following command in the terminal:
 
+![alt text](https://github.com/karlydisanto/CUE_Project/blob/e027739ca6d5bf321919401ad9fdddfb43479513/fit4u%20%5BC__Users_kdisa_AndroidStudioProjects_fit4u%5D%20-%20..._test_driver_run_test.dart%20%5Bfit4u%5D%20-%20Android%20Studio%205_18_2021%2011_39_37%20AM.png)
 
+You will see the test cases passing on both the phone simulator and the Android Studio terminal.
 
 
 
